@@ -72,3 +72,20 @@ A stable internet connection is required to fetch restaurant data and images.
     ```
 
 
+# Usage
+
+- **Search for Restaurants:** Use the search functionality to find dining options based on your preferences.
+- **Explore Restaurant Profiles:** Click on a restaurant to view its detailed profile, including menu items and reviews.
+- **Read and Write Reviews:** Share your dining experiences by leaving reviews and ratings for restaurants.
+- **Save Favourites:** Create an account to save your favourite restaurants and receive personalized recommendations.
+- **Get Directions:** Click on the map integration to get directions to the selected restaurant.
+
+## Thank you to the following contributors who have helped to improve this project:
+
+| Name           | Email Address      | Phone Number    |
+|----------------|--------------------|-----------------|
+| Md. Saiful Islam Roni  | saiful.islam@bjitacademy.com    | 01625045135  |
+| Avishek  Agarwala  |  avigreat29@gmail.com    | 01868590623  |
+| Shahriar Ahmed | shahriar.ahmed@bjitacademy.com    | 01715188477 |
+| S.M.ABRAR MUSTAKIM TAKI  | abrar.mustakim@bjitacademy.com    | 01521772634  |
+| Contributor 5  | Email address 5    | Phone Number 5  |
