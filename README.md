@@ -104,4 +104,4 @@ For any inquiries or support, please email us at [support@localdiningguide.com](
 
 ---
 
-We hope you enjoy using Local Dining Guide to discover fantastic dining options in your area! Bon appétit! 🍴
+We hope you enjoy using Local Dining Guide to discover fantastic dining options in your area! Bon appétit! 
