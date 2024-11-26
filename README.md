@@ -88,4 +88,4 @@ A stable internet connection is required to fetch restaurant data and images.
 | Avishek  Agarwala  |  avigreat29@gmail.com    | 01868590623  |
 | Shahriar Ahmed | shahriar.ahmed@bjitacademy.com    | 01715188477 |
 | S.M.ABRAR MUSTAKIM TAKI  | abrar.mustakim@bjitacademy.com    | 01521772634  |
-| Contributor 5  | Email address 5    | Phone Number 5  |
+| Abrar Awsaf | abrar.awsaf@bjitacademy.com    | 01557790397  |
