@@ -98,9 +98,9 @@ For any inquiries or support, please email us at [support@localdiningguide.com](
 
 ## Follow us on social media:
 
-- **Twitter**: [@localdiningguide](https://twitter.com/localdiningguide)
-- **Facebook**: [LocalDiningGuide](https://facebook.com/LocalDiningGuide)
-- **Instagram**: [@localdiningguide](https://instagram.com/localdiningguide)
+- **Twitter**: [![Twitter](https://img.icons8.com/ios/50/000000/twitter.png)](https://twitter.com/localdiningguide)
+- **Facebook**: [![Facebook](https://img.icons8.com/ios/50/000000/facebook.png)](https://facebook.com/LocalDiningGuide)
+- **Instagram**: [![Instagram](https://img.icons8.com/ios/50/000000/instagram.png)](https://instagram.com/localdiningguide)
 
 ---
 
