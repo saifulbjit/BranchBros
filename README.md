@@ -88,4 +88,20 @@ A stable internet connection is required to fetch restaurant data and images.
 | Avishek  Agarwala  |  avigreat29@gmail.com    | 01868590623  |
 | Shahriar Ahmed | shahriar.ahmed@bjitacademy.com    | 01715188477 |
 | S.M.ABRAR MUSTAKIM TAKI  | abrar.mustakim@bjitacademy.com    | 01521772634  |
-| Contributor 5  | Email address 5    | Phone Number 5  |
+| Abrar Awsaf | abrar.awsaf@bjitacademy.com    | 01557790397  |
+
+![Contact Banner](https://i.postimg.cc/8cspCKXf/contact-Baner.webp)
+
+## Contact Information
+
+For any inquiries or support, please email us at [support@localdiningguide.com](mailto:support@localdiningguide.com) or visit our website [http://www.localdiningguide.com](http://www.localdiningguide.com).
+
+## Follow us on social media:
+
+- **Twitter**: [![Twitter](https://img.icons8.com/ios/50/000000/twitter.png)](https://twitter.com/localdiningguide)
+- **Facebook**: [![Facebook](https://img.icons8.com/ios/50/000000/facebook.png)](https://facebook.com/LocalDiningGuide)
+- **Instagram**: [![Instagram](https://img.icons8.com/ios/50/000000/instagram.png)](https://instagram.com/localdiningguide)
+
+---
+
+We hope you enjoy using Local Dining Guide to discover fantastic dining options in your area! Bon appétit! 
